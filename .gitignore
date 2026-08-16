@@ -1,0 +1,15 @@
+*.asm
+*.hlr
+*.ihx
+*.lk
+*.lst
+*.map
+*.mem
+*.rel
+*.rst
+*.sym
+*.adb
+*.cdb
+*.omf
+*.hex
+*.rom
