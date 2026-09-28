@@ -8,7 +8,6 @@
 #include "aht30.h"
 
 // Switches
-#define	MODEBUTTON	0x10			// .4
 #define	SWMASK		(MODEBUTTON)
 
 uint8_t volatile tickdiv;

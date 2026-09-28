@@ -43,6 +43,8 @@ __sfr __at (0xB2) P3M0 ;
 #define	button_init()
 #define	led_toggle()
 
+#define	MODEBUTTON	0x10	// P3.4
+
 #endif
 
 extern void timer0(void) __interrupt(TF0_VECTOR);	// to make sure vector is initialised
